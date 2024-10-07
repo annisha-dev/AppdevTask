@@ -18,6 +18,7 @@
 <br>1)Weather app
 <br> 2)Sushi app
 <br>3)Notes app with Firebase
+<br> (Brownie points if you do the sushi app)
 
 <h2>Step 3 ->Instructions </h2
 <br><b><u>Choose any 1 task from the given options!!!!!</u>
